@@ -4,7 +4,7 @@
   "description": "Simple task timer api which deletes task after a certain time",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
+    "start": "node index.js"
   },
   "keywords": [
     "task-timer",
